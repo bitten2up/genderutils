@@ -1,7 +1,7 @@
 
 # genderutils
 
-a (mostly) joke program for reading and writing genders to users on linux (granted you can read and write the file .gender their home directory)
+a (mostly) joke program for reading and writing genders to users on linux (granted you have to be able to read and write the file .gender their home directory)
 
 # usage
 
